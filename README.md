@@ -1,6 +1,24 @@
 # 🚗 RideLink – Smart Ride Sharing & Carpooling App
 
 ## 📌 Overview
+RideLink is a modern ride-sharing and carpooling application designed to connect drivers and passengers traveling in the same direction. The platform helps reduce travel costs, traffic congestion, and environmental impact by enabling efficient ride matching.
+
+---
+
+## ✨ Features
+
+### 👤 User Features
+
+* User Registration & Login (Email, Phone, Google)
+* Profile Management (Personal & Vehicle Details)
+* Book a Ride (Pickup & Drop Location)
+* Real-time Ride Matching
+* Live GPS Tracking
+* In-app Chat & Communication
+* Secure Online Payments (UPI/Card/Wallet)
+* Ride History & Trip Details
+* Ratings & Reviews
+
 
 
 ### 🚘 Driver Features
