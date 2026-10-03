@@ -1,4 +1,3 @@
-Yes — I’ll keep **every section**, including **Install Dependencies**, while making the README compact and professional. Copy-paste the complete content below:
 
 ````
 # RideLink - Smart Ride Sharing and Carpooling App
