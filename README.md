@@ -196,10 +196,9 @@ npm start
 
  ## Developed By
 
- **Your Name**
+ **ARJUN SHARMA**
 
  **RideLink Project**
 
-```
 
-```
+
