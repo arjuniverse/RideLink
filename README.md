@@ -1,5 +1,4 @@
 
-````
 # RideLink - Smart Ride Sharing and Carpooling App
 
 ## Overview
